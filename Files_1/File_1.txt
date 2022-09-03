@@ -1,4 +1,4 @@
 This is file 1.
-This is a branch of master 
+This is a branch of master called New Features-File_1
 It is a new feature for File_1
 Add another line that is part of branch New-Features
