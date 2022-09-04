@@ -4,3 +4,4 @@ It is a new feature for File_1
 Add another line that is part of branch New-Features
 Trying to get the editor to work in the Inline View !!
 This is the second try to get the editor to work after going to the inline view
+This is a new commit using command line git on 9/4/2022
